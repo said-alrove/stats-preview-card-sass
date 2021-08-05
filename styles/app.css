@@ -30,7 +30,7 @@ span {
 }
 @media (min-width: 552px) {
   .information__header > h1 {
-    font-size: 3.5rem;
+    font-size: 3.6rem;
   }
 }
 
@@ -167,7 +167,7 @@ span {
 @media (min-width: 1080px) {
   .stats-container {
     margin-block-start: 8rem;
-    padding-inline-end: 8rem;
+    padding-inline-end: 5.5rem;
   }
 }
 .stats__item {

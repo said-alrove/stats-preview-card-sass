@@ -21,7 +21,7 @@
         } 
         @include thm.less-query($device: 'tablet', $size: 'lg') {
             margin-block-start: 8rem;
-            padding-inline-end: 8rem;
+            padding-inline-end: 5.5rem;
         }
     }
 
