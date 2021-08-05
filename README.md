@@ -8,8 +8,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-using-sass-with-smacss-for-modularizing-the-project-XYqlvykLl)
+- [Github Live](https://said-alrove.github.io/stats-preview-card-sass/)
 
 ## Author
 
