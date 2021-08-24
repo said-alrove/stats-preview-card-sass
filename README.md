@@ -11,7 +11,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-using-sass-with-smacss-for-modularizing-the-project-XYqlvykLl)
-- [Netlify](https://spcs-173781.netlify.app/)
+- [Netlify](https://spcs-b0753d.netlify.app/)
 
 ## Author
 
